@@ -1,5 +1,8 @@
 # Archives
-Reference codes for easy access.
+Reference for easy access.
+
+## SHORTCUTS
+  ALT + SHIFT + F for Auto Formatting JSON in VS Code. 
 
 ## PYTHON
 ### Unzip.py
